@@ -1,0 +1,4857 @@
+{
+    "departments": [
+        {
+            "department_no": 1,
+            "department_name": "hq",
+            "member_limit": 5,
+            "tags": [
+                "computer"
+            ],
+            "event_schedules": [
+                "wed9:00-11:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00",
+                "tues8:00-11:00",
+                "sat15:00-17:00"
+            ],
+            "score_limit": 2.8
+        },
+        {
+            "department_no": 2,
+            "department_name": "xf",
+            "member_limit": 7,
+            "tags": [
+                "soccer",
+                "guiter",
+                "swimming"
+            ],
+            "event_schedules": [
+                "wed9:00-11:00",
+                "tues8:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "score_limit": 4.1
+        },
+        {
+            "department_no": 3,
+            "department_name": "fnqduxwfn",
+            "member_limit": 9,
+            "tags": [
+                "guiter",
+                "swimming",
+                "soccer",
+                "dancing",
+                "computer",
+                "reading"
+            ],
+            "event_schedules": [
+                "fri14:00-15:00",
+                "wed9:00-11:00",
+                "sat15:00-17:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00"
+            ],
+            "score_limit": 1.1
+        },
+        {
+            "department_no": 4,
+            "department_name": "vy",
+            "member_limit": 6,
+            "tags": [
+                "computer",
+                "movie",
+                "singing",
+                "guiter",
+                "soccer",
+                "basketball",
+                "chess"
+            ],
+            "event_schedules": [
+                "mon8:00-10:00"
+            ],
+            "score_limit": 4.2
+        },
+        {
+            "department_no": 5,
+            "department_name": "e",
+            "member_limit": 9,
+            "tags": [
+                "swimming",
+                "soccer"
+            ],
+            "event_schedules": [
+                "fri14:00-15:00",
+                "sun15:00-16:00",
+                "mon8:00-10:00",
+                "tues8:00-11:00"
+            ],
+            "score_limit": 2.9
+        },
+        {
+            "department_no": 6,
+            "department_name": "srenzkycx",
+            "member_limit": 6,
+            "tags": [
+                "computer",
+                "soccer"
+            ],
+            "event_schedules": [
+                "mon8:00-10:00",
+                "sat15:00-17:00",
+                "sun15:00-16:00",
+                "thur9:00-12:00"
+            ],
+            "score_limit": 3.9
+        },
+        {
+            "department_no": 7,
+            "department_name": "dpooefx",
+            "member_limit": 13,
+            "tags": [
+                "singing",
+                "dancing",
+                "movie",
+                "basketball"
+            ],
+            "event_schedules": [
+                "sat15:00-17:00",
+                "sat14:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "score_limit": 3.6
+        },
+        {
+            "department_no": 8,
+            "department_name": "oy",
+            "member_limit": 5,
+            "tags": [
+                "singing"
+            ],
+            "event_schedules": [
+                "sat15:00-17:00",
+                "tues8:00-11:00"
+            ],
+            "score_limit": 1.6
+        },
+        {
+            "department_no": 9,
+            "department_name": "bnpljvrv",
+            "member_limit": 4,
+            "tags": [
+                "movie",
+                "singing",
+                "swimming",
+                "computer",
+                "dancing",
+                "guiter",
+                "basketball",
+                "chess",
+                "soccer"
+            ],
+            "event_schedules": [
+                "sat15:00-17:00",
+                "sun19:00-21:00"
+            ],
+            "score_limit": 2.2
+        },
+        {
+            "department_no": 10,
+            "department_name": "jloo",
+            "member_limit": 15,
+            "tags": [
+                "movie",
+                "dancing"
+            ],
+            "event_schedules": [
+                "sun19:00-21:00",
+                "sun19:00-22:00"
+            ],
+            "score_limit": 2.0
+        },
+        {
+            "department_no": 11,
+            "department_name": "sncbxcoks",
+            "member_limit": 9,
+            "tags": [
+                "computer",
+                "swimming",
+                "reading",
+                "dancing",
+                "singing",
+                "soccer",
+                "chess",
+                "movie"
+            ],
+            "event_schedules": [
+                "sat14:00-16:00",
+                "tues8:00-11:00",
+                "mon8:00-10:00"
+            ],
+            "score_limit": 4.3
+        },
+        {
+            "department_no": 12,
+            "department_name": "jswnkkufnu",
+            "member_limit": 4,
+            "tags": [
+                "swimming",
+                "reading",
+                "soccer",
+                "computer",
+                "singing",
+                "movie"
+            ],
+            "event_schedules": [
+                "sun19:00-21:00"
+            ],
+            "score_limit": 4.3
+        },
+        {
+            "department_no": 13,
+            "department_name": "ly",
+            "member_limit": 13,
+            "tags": [
+                "computer",
+                "guiter",
+                "chess",
+                "singing",
+                "reading",
+                "dancing",
+                "basketball",
+                "movie",
+                "soccer",
+                "swimming"
+            ],
+            "event_schedules": [
+                "sun19:00-22:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00"
+            ],
+            "score_limit": 2.2
+        },
+        {
+            "department_no": 14,
+            "department_name": "psajlfv",
+            "member_limit": 15,
+            "tags": [
+                "guiter",
+                "singing",
+                "swimming",
+                "chess",
+                "dancing",
+                "computer",
+                "basketball"
+            ],
+            "event_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "score_limit": 2.5
+        },
+        {
+            "department_no": 15,
+            "department_name": "pws",
+            "member_limit": 8,
+            "tags": [
+                "chess",
+                "soccer",
+                "dancing",
+                "movie",
+                "computer",
+                "guiter",
+                "basketball",
+                "singing"
+            ],
+            "event_schedules": [
+                "sun19:00-21:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00"
+            ],
+            "score_limit": 3.2
+        },
+        {
+            "department_no": 16,
+            "department_name": "dwvx",
+            "member_limit": 7,
+            "tags": [
+                "swimming",
+                "basketball",
+                "reading",
+                "movie",
+                "computer",
+                "guiter",
+                "soccer",
+                "dancing",
+                "chess",
+                "singing"
+            ],
+            "event_schedules": [
+                "thur9:00-12:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "score_limit": 4.9
+        },
+        {
+            "department_no": 17,
+            "department_name": "gxpeyanfet",
+            "member_limit": 9,
+            "tags": [
+                "reading",
+                "basketball",
+                "computer",
+                "dancing",
+                "guiter"
+            ],
+            "event_schedules": [
+                "sat14:00-16:00",
+                "sat15:00-17:00",
+                "fri14:00-15:00"
+            ],
+            "score_limit": 1.8
+        },
+        {
+            "department_no": 18,
+            "department_name": "ggekj",
+            "member_limit": 3,
+            "tags": [
+                "computer",
+                "reading",
+                "swimming",
+                "singing"
+            ],
+            "event_schedules": [
+                "thur9:00-12:00"
+            ],
+            "score_limit": 4.7
+        },
+        {
+            "department_no": 19,
+            "department_name": "gxiepjsrd",
+            "member_limit": 5,
+            "tags": [
+                "guiter",
+                "dancing",
+                "swimming",
+                "basketball",
+                "movie",
+                "soccer"
+            ],
+            "event_schedules": [
+                "mon8:00-10:00",
+                "sat15:00-17:00",
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "score_limit": 2.3
+        },
+        {
+            "department_no": 20,
+            "department_name": "y",
+            "member_limit": 2,
+            "tags": [
+                "movie",
+                "reading",
+                "basketball",
+                "singing",
+                "soccer",
+                "chess"
+            ],
+            "event_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "sun19:00-21:00"
+            ],
+            "score_limit": 1.0
+        }
+    ],
+    "students": [
+        {
+            "student_no": 1,
+            "student_name": "dcy",
+            "score": 1.8,
+            "tags": [
+                "soccer",
+                "chess",
+                "guiter",
+                "singing"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                7,
+                11,
+                18,
+                16,
+                17
+            ]
+        },
+        {
+            "student_no": 2,
+            "student_name": "fioneedd",
+            "score": 2.7,
+            "tags": [
+                "chess",
+                "computer",
+                "swimming",
+                "singing",
+                "guiter",
+                "movie",
+                "reading",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "fri14:00-15:00",
+                "mon8:00-10:00",
+                "wed9:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                11
+            ]
+        },
+        {
+            "student_no": 3,
+            "student_name": "vnpppsu",
+            "score": 4.0,
+            "tags": [
+                "dancing",
+                "guiter",
+                "chess",
+                "singing",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat14:00-16:00",
+                "sat15:00-17:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                19,
+                20,
+                4,
+                1
+            ]
+        },
+        {
+            "student_no": 4,
+            "student_name": "kdmbppwe",
+            "score": 0.5,
+            "tags": [
+                "singing",
+                "dancing",
+                "soccer",
+                "basketball",
+                "movie",
+                "guiter",
+                "swimming",
+                "reading",
+                "chess"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun15:00-16:00",
+                "wed9:00-11:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                13,
+                18,
+                17,
+                6,
+                2
+            ]
+        },
+        {
+            "student_no": 5,
+            "student_name": "bxph",
+            "score": 0.3,
+            "tags": [
+                "guiter",
+                "soccer",
+                "reading"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                4
+            ]
+        },
+        {
+            "student_no": 6,
+            "student_name": "nbnfuvqn",
+            "score": 4.1,
+            "tags": [
+                "basketball",
+                "chess",
+                "dancing"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                11,
+                19
+            ]
+        },
+        {
+            "student_no": 7,
+            "student_name": "dzuzosrkru",
+            "score": 1.3,
+            "tags": [
+                "dancing",
+                "basketball",
+                "guiter",
+                "reading",
+                "soccer",
+                "computer",
+                "swimming",
+                "movie",
+                "singing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                13
+            ]
+        },
+        {
+            "student_no": 8,
+            "student_name": "mdigpnpuu",
+            "score": 3.9,
+            "tags": [
+                "singing",
+                "basketball",
+                "swimming",
+                "soccer",
+                "dancing",
+                "computer"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                20,
+                13,
+                6
+            ]
+        },
+        {
+            "student_no": 9,
+            "student_name": "nhhlq",
+            "score": 0.6,
+            "tags": [
+                "dancing",
+                "reading",
+                "chess"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                2,
+                18,
+                16,
+                4,
+                14
+            ]
+        },
+        {
+            "student_no": 10,
+            "student_name": "gls",
+            "score": 2.7,
+            "tags": [
+                "soccer",
+                "basketball",
+                "movie",
+                "computer",
+                "singing",
+                "reading",
+                "swimming",
+                "dancing",
+                "chess",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                14,
+                12,
+                5,
+                19
+            ]
+        },
+        {
+            "student_no": 11,
+            "student_name": "wlj",
+            "score": 4.8,
+            "tags": [
+                "reading",
+                "soccer",
+                "computer",
+                "dancing",
+                "swimming",
+                "basketball",
+                "guiter",
+                "movie",
+                "chess",
+                "singing"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-21:00",
+                "mon8:00-10:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                4,
+                13,
+                8
+            ]
+        },
+        {
+            "student_no": 12,
+            "student_name": "t",
+            "score": 2.7,
+            "tags": [
+                "singing",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-21:00",
+                "thur9:00-12:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                9,
+                4,
+                18,
+                10
+            ]
+        },
+        {
+            "student_no": 13,
+            "student_name": "fbcg",
+            "score": 0.8,
+            "tags": [
+                "soccer",
+                "computer",
+                "movie",
+                "singing",
+                "chess",
+                "swimming",
+                "reading",
+                "basketball",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                16,
+                2
+            ]
+        },
+        {
+            "student_no": 14,
+            "student_name": "guzyupzwwe",
+            "score": 2.3,
+            "tags": [
+                "chess",
+                "soccer",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                16,
+                14
+            ]
+        },
+        {
+            "student_no": 15,
+            "student_name": "uuveoo",
+            "score": 3.2,
+            "tags": [
+                "basketball",
+                "dancing",
+                "singing"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                12,
+                18,
+                7,
+                11
+            ]
+        },
+        {
+            "student_no": 16,
+            "student_name": "u",
+            "score": 1.6,
+            "tags": [
+                "guiter",
+                "computer",
+                "swimming",
+                "soccer",
+                "movie"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "fri14:00-15:00",
+                "sat15:00-17:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                10,
+                9,
+                1,
+                19
+            ]
+        },
+        {
+            "student_no": 17,
+            "student_name": "abfcvkdze",
+            "score": 3.2,
+            "tags": [
+                "swimming",
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "wed9:00-11:00",
+                "thur9:00-12:00",
+                "tues8:00-11:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                19,
+                20,
+                9,
+                12
+            ]
+        },
+        {
+            "student_no": 18,
+            "student_name": "bfkq",
+            "score": 3.9,
+            "tags": [
+                "guiter",
+                "computer",
+                "reading",
+                "singing",
+                "dancing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                16,
+                10,
+                18,
+                19
+            ]
+        },
+        {
+            "student_no": 19,
+            "student_name": "j",
+            "score": 0.5,
+            "tags": [
+                "basketball",
+                "singing",
+                "chess",
+                "guiter",
+                "computer"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                11
+            ]
+        },
+        {
+            "student_no": 20,
+            "student_name": "witdp",
+            "score": 4.8,
+            "tags": [
+                "swimming",
+                "computer",
+                "reading",
+                "guiter",
+                "movie",
+                "chess"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                19
+            ]
+        },
+        {
+            "student_no": 21,
+            "student_name": "b",
+            "score": 3.3,
+            "tags": [
+                "reading",
+                "swimming",
+                "basketball",
+                "computer",
+                "movie",
+                "chess"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun19:00-21:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                1,
+                17
+            ]
+        },
+        {
+            "student_no": 22,
+            "student_name": "rudmphmeck",
+            "score": 1.4,
+            "tags": [
+                "singing",
+                "movie",
+                "dancing",
+                "guiter",
+                "soccer",
+                "chess",
+                "basketball"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                2,
+                6
+            ]
+        },
+        {
+            "student_no": 23,
+            "student_name": "fxw",
+            "score": 0.7,
+            "tags": [
+                "reading",
+                "dancing",
+                "guiter",
+                "movie",
+                "singing",
+                "soccer",
+                "chess",
+                "swimming",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                20,
+                19,
+                3
+            ]
+        },
+        {
+            "student_no": 24,
+            "student_name": "bmxrm",
+            "score": 0.9,
+            "tags": [
+                "computer",
+                "movie",
+                "guiter",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "wed9:00-11:00",
+                "sun15:00-16:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                6,
+                8
+            ]
+        },
+        {
+            "student_no": 25,
+            "student_name": "yxqkqoyzw",
+            "score": 1.5,
+            "tags": [
+                "basketball",
+                "guiter",
+                "reading",
+                "movie",
+                "computer",
+                "dancing",
+                "singing",
+                "chess",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                7
+            ]
+        },
+        {
+            "student_no": 26,
+            "student_name": "rgzvxdhpo",
+            "score": 1.4,
+            "tags": [
+                "reading",
+                "guiter",
+                "dancing",
+                "soccer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                11
+            ]
+        },
+        {
+            "student_no": 27,
+            "student_name": "khtq",
+            "score": 2.8,
+            "tags": [
+                "swimming",
+                "movie",
+                "soccer",
+                "dancing",
+                "chess",
+                "basketball",
+                "reading",
+                "singing"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                6,
+                13,
+                14
+            ]
+        },
+        {
+            "student_no": 28,
+            "student_name": "ewk",
+            "score": 4.0,
+            "tags": [
+                "soccer",
+                "chess",
+                "swimming",
+                "dancing",
+                "basketball",
+                "movie",
+                "singing"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-22:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                7,
+                14,
+                15,
+                10,
+                1
+            ]
+        },
+        {
+            "student_no": 29,
+            "student_name": "fpfycg",
+            "score": 1.0,
+            "tags": [
+                "guiter",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "mon8:00-10:00",
+                "wed9:00-11:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                16,
+                5
+            ]
+        },
+        {
+            "student_no": 30,
+            "student_name": "metog",
+            "score": 4.7,
+            "tags": [
+                "reading",
+                "chess",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                11,
+                4,
+                15
+            ]
+        },
+        {
+            "student_no": 31,
+            "student_name": "yy",
+            "score": 1.2,
+            "tags": [
+                "reading",
+                "computer",
+                "basketball",
+                "swimming",
+                "chess",
+                "soccer",
+                "movie",
+                "singing",
+                "guiter",
+                "dancing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "tues8:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                4,
+                9,
+                3
+            ]
+        },
+        {
+            "student_no": 32,
+            "student_name": "iqpuoqhim",
+            "score": 3.4,
+            "tags": [
+                "reading",
+                "computer",
+                "dancing",
+                "movie",
+                "swimming",
+                "guiter",
+                "basketball",
+                "singing"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "sun19:00-22:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                15,
+                10,
+                2,
+                6
+            ]
+        },
+        {
+            "student_no": 33,
+            "student_name": "hhssqcty",
+            "score": 0.2,
+            "tags": [
+                "soccer",
+                "dancing",
+                "singing",
+                "swimming",
+                "reading",
+                "chess",
+                "basketball",
+                "guiter"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "wed9:00-11:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                7
+            ]
+        },
+        {
+            "student_no": 34,
+            "student_name": "gcjwlgrs",
+            "score": 2.8,
+            "tags": [
+                "soccer",
+                "dancing",
+                "computer"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                8,
+                6,
+                19
+            ]
+        },
+        {
+            "student_no": 35,
+            "student_name": "ba",
+            "score": 1.1,
+            "tags": [
+                "swimming",
+                "movie",
+                "reading",
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                11,
+                9,
+                13,
+                14
+            ]
+        },
+        {
+            "student_no": 36,
+            "student_name": "g",
+            "score": 3.7,
+            "tags": [
+                "guiter",
+                "computer",
+                "chess",
+                "soccer",
+                "reading",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                5,
+                18,
+                4,
+                10,
+                16
+            ]
+        },
+        {
+            "student_no": 37,
+            "student_name": "hg",
+            "score": 0.1,
+            "tags": [
+                "soccer",
+                "swimming",
+                "dancing"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "fri14:00-15:00",
+                "sat15:00-17:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                1,
+                19,
+                12,
+                5
+            ]
+        },
+        {
+            "student_no": 38,
+            "student_name": "t",
+            "score": 3.8,
+            "tags": [
+                "guiter",
+                "swimming",
+                "dancing",
+                "singing",
+                "soccer",
+                "reading",
+                "basketball",
+                "chess",
+                "computer",
+                "movie"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                11,
+                3,
+                19,
+                20
+            ]
+        },
+        {
+            "student_no": 39,
+            "student_name": "vdrcygurq",
+            "score": 0.7,
+            "tags": [
+                "movie",
+                "soccer",
+                "guiter",
+                "dancing",
+                "chess",
+                "singing",
+                "swimming",
+                "basketball"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "sun19:00-22:00",
+                "sun15:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                19
+            ]
+        },
+        {
+            "student_no": 40,
+            "student_name": "jgm",
+            "score": 4.1,
+            "tags": [
+                "guiter",
+                "chess",
+                "swimming",
+                "computer",
+                "basketball",
+                "dancing",
+                "movie",
+                "reading"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                10
+            ]
+        },
+        {
+            "student_no": 41,
+            "student_name": "fa",
+            "score": 3.4,
+            "tags": [
+                "basketball",
+                "swimming",
+                "computer",
+                "guiter",
+                "chess",
+                "soccer",
+                "dancing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                7,
+                5,
+                18,
+                10,
+                17
+            ]
+        },
+        {
+            "student_no": 42,
+            "student_name": "jzgin",
+            "score": 0.7,
+            "tags": [
+                "singing",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                12,
+                8,
+                7,
+                3,
+                16
+            ]
+        },
+        {
+            "student_no": 43,
+            "student_name": "wudx",
+            "score": 2.8,
+            "tags": [
+                "computer",
+                "singing",
+                "dancing",
+                "reading",
+                "basketball",
+                "chess"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                15,
+                3
+            ]
+        },
+        {
+            "student_no": 44,
+            "student_name": "cenaumnd",
+            "score": 2.1,
+            "tags": [
+                "computer",
+                "dancing",
+                "reading",
+                "movie",
+                "chess",
+                "guiter",
+                "basketball",
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                14,
+                18,
+                9,
+                4,
+                2
+            ]
+        },
+        {
+            "student_no": 45,
+            "student_name": "ob",
+            "score": 2.1,
+            "tags": [
+                "movie",
+                "dancing",
+                "basketball",
+                "reading",
+                "soccer",
+                "computer",
+                "chess",
+                "swimming"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                4,
+                9,
+                14
+            ]
+        },
+        {
+            "student_no": 46,
+            "student_name": "pck",
+            "score": 1.1,
+            "tags": [
+                "chess",
+                "basketball",
+                "swimming",
+                "movie",
+                "dancing",
+                "soccer",
+                "singing",
+                "reading",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                2,
+                13
+            ]
+        },
+        {
+            "student_no": 47,
+            "student_name": "nfgfrcc",
+            "score": 3.1,
+            "tags": [
+                "computer",
+                "swimming",
+                "movie",
+                "dancing",
+                "reading",
+                "singing",
+                "soccer",
+                "chess",
+                "basketball",
+                "guiter"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                9
+            ]
+        },
+        {
+            "student_no": 48,
+            "student_name": "vzhc",
+            "score": 2.2,
+            "tags": [
+                "swimming",
+                "singing",
+                "guiter",
+                "reading",
+                "computer",
+                "basketball",
+                "chess",
+                "dancing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                8,
+                2,
+                14,
+                18
+            ]
+        },
+        {
+            "student_no": 49,
+            "student_name": "kp",
+            "score": 3.4,
+            "tags": [
+                "basketball",
+                "dancing",
+                "soccer",
+                "guiter",
+                "movie",
+                "swimming"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "mon8:00-10:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                14,
+                9,
+                12,
+                17,
+                20
+            ]
+        },
+        {
+            "student_no": 50,
+            "student_name": "ktlptndmp",
+            "score": 3.5,
+            "tags": [
+                "singing",
+                "movie",
+                "basketball",
+                "dancing",
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "wed9:00-11:00",
+                "sat14:00-16:00",
+                "mon8:00-10:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                3
+            ]
+        },
+        {
+            "student_no": 51,
+            "student_name": "skmkhssmv",
+            "score": 2.2,
+            "tags": [
+                "singing",
+                "reading",
+                "basketball",
+                "movie",
+                "dancing",
+                "computer",
+                "chess",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                16
+            ]
+        },
+        {
+            "student_no": 52,
+            "student_name": "fov",
+            "score": 1.8,
+            "tags": [
+                "computer",
+                "reading",
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sat14:00-16:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                10,
+                16,
+                4,
+                1
+            ]
+        },
+        {
+            "student_no": 53,
+            "student_name": "tlntxmrjxx",
+            "score": 2.0,
+            "tags": [
+                "soccer",
+                "computer",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                6,
+                8,
+                15,
+                7
+            ]
+        },
+        {
+            "student_no": 54,
+            "student_name": "dojskkv",
+            "score": 3.3,
+            "tags": [
+                "chess",
+                "basketball",
+                "computer",
+                "movie",
+                "guiter",
+                "reading"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                9
+            ]
+        },
+        {
+            "student_no": 55,
+            "student_name": "tdwcld",
+            "score": 1.9,
+            "tags": [
+                "soccer",
+                "dancing",
+                "reading",
+                "computer",
+                "basketball",
+                "guiter"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sun19:00-21:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "student_no": 56,
+            "student_name": "lvrgl",
+            "score": 2.1,
+            "tags": [
+                "basketball",
+                "dancing",
+                "singing",
+                "guiter"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                16,
+                14,
+                19,
+                20
+            ]
+        },
+        {
+            "student_no": 57,
+            "student_name": "wsa",
+            "score": 4.4,
+            "tags": [
+                "singing",
+                "chess",
+                "soccer",
+                "swimming",
+                "basketball",
+                "computer",
+                "dancing",
+                "movie"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                6,
+                17,
+                11,
+                10
+            ]
+        },
+        {
+            "student_no": 58,
+            "student_name": "tdhvygkji",
+            "score": 0.5,
+            "tags": [
+                "soccer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                16,
+                3,
+                20,
+                2
+            ]
+        },
+        {
+            "student_no": 59,
+            "student_name": "knh",
+            "score": 2.5,
+            "tags": [
+                "computer",
+                "reading",
+                "chess",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sat14:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                2,
+                14
+            ]
+        },
+        {
+            "student_no": 60,
+            "student_name": "eed",
+            "score": 1.9,
+            "tags": [
+                "singing",
+                "movie",
+                "dancing",
+                "chess",
+                "soccer",
+                "guiter",
+                "reading",
+                "swimming"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "tues8:00-11:00",
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                16,
+                20,
+                9,
+                19,
+                4
+            ]
+        },
+        {
+            "student_no": 61,
+            "student_name": "fjpsswyxli",
+            "score": 3.4,
+            "tags": [
+                "swimming",
+                "chess"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sat15:00-17:00",
+                "tues8:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                12,
+                18,
+                14,
+                1
+            ]
+        },
+        {
+            "student_no": 62,
+            "student_name": "wgrgonu",
+            "score": 2.4,
+            "tags": [
+                "swimming"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "mon8:00-10:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                9
+            ]
+        },
+        {
+            "student_no": 63,
+            "student_name": "jd",
+            "score": 4.2,
+            "tags": [
+                "swimming",
+                "reading",
+                "guiter",
+                "chess",
+                "movie",
+                "computer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                19,
+                8,
+                17,
+                6,
+                12
+            ]
+        },
+        {
+            "student_no": 64,
+            "student_name": "nta",
+            "score": 4.1,
+            "tags": [
+                "swimming",
+                "computer"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                11,
+                20,
+                13,
+                12,
+                4
+            ]
+        },
+        {
+            "student_no": 65,
+            "student_name": "hunw",
+            "score": 0.7,
+            "tags": [
+                "swimming",
+                "singing",
+                "guiter",
+                "dancing",
+                "computer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                19
+            ]
+        },
+        {
+            "student_no": 66,
+            "student_name": "ebksucvzql",
+            "score": 3.8,
+            "tags": [
+                "computer",
+                "guiter",
+                "reading"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sat15:00-17:00",
+                "sun19:00-22:00",
+                "sat14:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                14,
+                5,
+                11,
+                2,
+                6
+            ]
+        },
+        {
+            "student_no": 67,
+            "student_name": "wyvw",
+            "score": 0.2,
+            "tags": [
+                "soccer",
+                "chess",
+                "singing",
+                "computer",
+                "basketball",
+                "swimming",
+                "guiter",
+                "dancing",
+                "reading",
+                "movie"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sun19:00-21:00",
+                "mon8:00-10:00",
+                "sat14:00-16:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                16,
+                18,
+                4,
+                3,
+                1
+            ]
+        },
+        {
+            "student_no": 68,
+            "student_name": "q",
+            "score": 3.8,
+            "tags": [
+                "reading",
+                "guiter",
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                13,
+                20
+            ]
+        },
+        {
+            "student_no": 69,
+            "student_name": "bk",
+            "score": 0.2,
+            "tags": [
+                "singing",
+                "guiter",
+                "soccer",
+                "reading",
+                "basketball",
+                "computer",
+                "dancing",
+                "movie",
+                "chess"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                14,
+                18,
+                11,
+                15,
+                3
+            ]
+        },
+        {
+            "student_no": 70,
+            "student_name": "pwgz",
+            "score": 4.0,
+            "tags": [
+                "reading",
+                "singing",
+                "swimming",
+                "movie",
+                "dancing",
+                "chess",
+                "basketball",
+                "computer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                2,
+                8,
+                12,
+                20
+            ]
+        },
+        {
+            "student_no": 71,
+            "student_name": "tgokr",
+            "score": 2.8,
+            "tags": [
+                "chess",
+                "guiter",
+                "computer",
+                "singing",
+                "basketball",
+                "dancing",
+                "soccer",
+                "reading",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                2
+            ]
+        },
+        {
+            "student_no": 72,
+            "student_name": "iayabjr",
+            "score": 3.3,
+            "tags": [
+                "basketball"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                15,
+                20,
+                14,
+                9
+            ]
+        },
+        {
+            "student_no": 73,
+            "student_name": "uvld",
+            "score": 4.4,
+            "tags": [
+                "computer",
+                "reading",
+                "chess",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                16,
+                19
+            ]
+        },
+        {
+            "student_no": 74,
+            "student_name": "idznpghozv",
+            "score": 1.6,
+            "tags": [
+                "swimming",
+                "computer",
+                "soccer",
+                "guiter",
+                "reading",
+                "chess",
+                "singing"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "fri14:00-15:00",
+                "mon8:00-10:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                4,
+                5,
+                20,
+                15,
+                16
+            ]
+        },
+        {
+            "student_no": 75,
+            "student_name": "knepbho",
+            "score": 2.6,
+            "tags": [
+                "chess",
+                "swimming",
+                "movie",
+                "guiter",
+                "singing",
+                "basketball",
+                "dancing",
+                "reading",
+                "computer"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sat15:00-17:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                7
+            ]
+        },
+        {
+            "student_no": 76,
+            "student_name": "eprxibexxy",
+            "score": 0.1,
+            "tags": [
+                "basketball",
+                "movie",
+                "soccer",
+                "dancing",
+                "reading",
+                "singing",
+                "guiter",
+                "computer"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "sat15:00-17:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                6,
+                3,
+                18,
+                13,
+                20
+            ]
+        },
+        {
+            "student_no": 77,
+            "student_name": "attnhodt",
+            "score": 2.2,
+            "tags": [
+                "basketball",
+                "guiter",
+                "swimming",
+                "singing",
+                "computer"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "wed9:00-11:00",
+                "sun19:00-21:00",
+                "thur9:00-12:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                15
+            ]
+        },
+        {
+            "student_no": 78,
+            "student_name": "ea",
+            "score": 3.9,
+            "tags": [
+                "computer",
+                "dancing",
+                "movie",
+                "swimming",
+                "reading",
+                "basketball",
+                "soccer",
+                "singing",
+                "guiter",
+                "chess"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                4,
+                9,
+                18,
+                20
+            ]
+        },
+        {
+            "student_no": 79,
+            "student_name": "fzslzmpj",
+            "score": 0.7,
+            "tags": [
+                "chess",
+                "singing",
+                "guiter",
+                "swimming",
+                "dancing",
+                "computer"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                19,
+                5
+            ]
+        },
+        {
+            "student_no": 80,
+            "student_name": "clfkc",
+            "score": 0.9,
+            "tags": [
+                "computer",
+                "swimming",
+                "basketball"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "fri14:00-15:00",
+                "thur9:00-12:00",
+                "sat14:00-16:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                6,
+                8,
+                18,
+                5,
+                11
+            ]
+        },
+        {
+            "student_no": 81,
+            "student_name": "xxpsw",
+            "score": 1.8,
+            "tags": [
+                "dancing",
+                "soccer",
+                "reading"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "sun19:00-22:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                8,
+                14
+            ]
+        },
+        {
+            "student_no": 82,
+            "student_name": "wcuqdscil",
+            "score": 2.8,
+            "tags": [
+                "soccer",
+                "reading",
+                "chess",
+                "singing",
+                "computer",
+                "dancing",
+                "guiter"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "tues8:00-11:00",
+                "fri14:00-15:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                17,
+                10,
+                14
+            ]
+        },
+        {
+            "student_no": 83,
+            "student_name": "bhqkvcswj",
+            "score": 3.7,
+            "tags": [
+                "swimming"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "tues8:00-11:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                17,
+                2,
+                13,
+                12
+            ]
+        },
+        {
+            "student_no": 84,
+            "student_name": "bsguvzifnh",
+            "score": 1.3,
+            "tags": [
+                "guiter",
+                "basketball",
+                "singing",
+                "swimming",
+                "movie",
+                "dancing",
+                "computer",
+                "chess",
+                "reading"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                14
+            ]
+        },
+        {
+            "student_no": 85,
+            "student_name": "czy",
+            "score": 4.0,
+            "tags": [
+                "swimming",
+                "guiter",
+                "chess",
+                "reading",
+                "computer",
+                "singing",
+                "dancing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "fri14:00-15:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                8
+            ]
+        },
+        {
+            "student_no": 86,
+            "student_name": "iizwudw",
+            "score": 0.9,
+            "tags": [
+                "movie",
+                "reading",
+                "chess",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                6,
+                17
+            ]
+        },
+        {
+            "student_no": 87,
+            "student_name": "yiudsjvez",
+            "score": 2.0,
+            "tags": [
+                "swimming",
+                "reading",
+                "chess",
+                "movie",
+                "guiter",
+                "singing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sat15:00-17:00",
+                "fri14:00-15:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                12,
+                13,
+                5,
+                15,
+                7
+            ]
+        },
+        {
+            "student_no": 88,
+            "student_name": "klas",
+            "score": 2.9,
+            "tags": [
+                "swimming"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                2,
+                6
+            ]
+        },
+        {
+            "student_no": 89,
+            "student_name": "umz",
+            "score": 3.8,
+            "tags": [
+                "computer",
+                "reading",
+                "singing",
+                "swimming"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "sun15:00-16:00",
+                "sat15:00-17:00",
+                "tues8:00-11:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                12,
+                13
+            ]
+        },
+        {
+            "student_no": 90,
+            "student_name": "kf",
+            "score": 3.0,
+            "tags": [
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                20,
+                18
+            ]
+        },
+        {
+            "student_no": 91,
+            "student_name": "yjlibitl",
+            "score": 1.9,
+            "tags": [
+                "movie",
+                "swimming",
+                "reading",
+                "basketball"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                18,
+                2,
+                8,
+                11
+            ]
+        },
+        {
+            "student_no": 92,
+            "student_name": "vptteyh",
+            "score": 1.1,
+            "tags": [
+                "reading",
+                "basketball",
+                "swimming",
+                "dancing",
+                "singing",
+                "computer",
+                "movie",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                12,
+                5,
+                9
+            ]
+        },
+        {
+            "student_no": 93,
+            "student_name": "y",
+            "score": 0.9,
+            "tags": [
+                "chess",
+                "movie",
+                "singing",
+                "swimming",
+                "computer",
+                "soccer",
+                "guiter",
+                "dancing",
+                "basketball",
+                "reading"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "sun19:00-21:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                16,
+                7,
+                14
+            ]
+        },
+        {
+            "student_no": 94,
+            "student_name": "ndevnmthji",
+            "score": 3.7,
+            "tags": [
+                "soccer",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                12,
+                16,
+                18,
+                13,
+                11
+            ]
+        },
+        {
+            "student_no": 95,
+            "student_name": "yatm",
+            "score": 4.0,
+            "tags": [
+                "guiter",
+                "chess",
+                "singing",
+                "swimming",
+                "soccer",
+                "reading",
+                "basketball",
+                "dancing",
+                "movie",
+                "computer"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                12,
+                15,
+                16,
+                8,
+                14
+            ]
+        },
+        {
+            "student_no": 96,
+            "student_name": "q",
+            "score": 4.0,
+            "tags": [
+                "guiter",
+                "singing",
+                "computer",
+                "movie",
+                "soccer",
+                "basketball",
+                "dancing",
+                "reading"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                10,
+                12,
+                15
+            ]
+        },
+        {
+            "student_no": 97,
+            "student_name": "h",
+            "score": 2.8,
+            "tags": [
+                "swimming",
+                "singing",
+                "basketball",
+                "dancing"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                16
+            ]
+        },
+        {
+            "student_no": 98,
+            "student_name": "qq",
+            "score": 4.8,
+            "tags": [
+                "chess"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                13,
+                3,
+                12,
+                8,
+                5
+            ]
+        },
+        {
+            "student_no": 99,
+            "student_name": "auuqmvhx",
+            "score": 2.5,
+            "tags": [
+                "soccer",
+                "singing",
+                "movie"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                16,
+                19
+            ]
+        },
+        {
+            "student_no": 100,
+            "student_name": "lslwuhtfqj",
+            "score": 1.5,
+            "tags": [
+                "guiter",
+                "swimming",
+                "computer",
+                "basketball",
+                "reading",
+                "dancing",
+                "singing",
+                "movie"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                16,
+                14,
+                6
+            ]
+        },
+        {
+            "student_no": 101,
+            "student_name": "ujabt",
+            "score": 3.3,
+            "tags": [
+                "basketball"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "wed9:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                11,
+                13,
+                3,
+                2,
+                7
+            ]
+        },
+        {
+            "student_no": 102,
+            "student_name": "yxrnxs",
+            "score": 0.3,
+            "tags": [
+                "guiter",
+                "dancing",
+                "chess",
+                "soccer"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                14,
+                11
+            ]
+        },
+        {
+            "student_no": 103,
+            "student_name": "qo",
+            "score": 4.3,
+            "tags": [
+                "computer",
+                "reading",
+                "chess",
+                "soccer",
+                "swimming",
+                "basketball",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                7,
+                10
+            ]
+        },
+        {
+            "student_no": 104,
+            "student_name": "l",
+            "score": 0.6,
+            "tags": [
+                "reading"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "mon8:00-10:00",
+                "tues8:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                4,
+                16,
+                17,
+                5
+            ]
+        },
+        {
+            "student_no": 105,
+            "student_name": "cztwzzv",
+            "score": 4.6,
+            "tags": [
+                "chess",
+                "movie",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                1,
+                16,
+                19
+            ]
+        },
+        {
+            "student_no": 106,
+            "student_name": "kczlhwus",
+            "score": 4.6,
+            "tags": [
+                "basketball"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                10,
+                16
+            ]
+        },
+        {
+            "student_no": 107,
+            "student_name": "klpj",
+            "score": 2.5,
+            "tags": [
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sat15:00-17:00",
+                "tues8:00-11:00",
+                "wed9:00-11:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                18,
+                4
+            ]
+        },
+        {
+            "student_no": 108,
+            "student_name": "ffvp",
+            "score": 0.0,
+            "tags": [
+                "guiter",
+                "soccer",
+                "swimming",
+                "movie",
+                "reading",
+                "dancing",
+                "computer",
+                "basketball",
+                "chess"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                20,
+                12,
+                7,
+                18
+            ]
+        },
+        {
+            "student_no": 109,
+            "student_name": "lprgdlw",
+            "score": 4.2,
+            "tags": [
+                "soccer",
+                "computer",
+                "dancing",
+                "movie",
+                "guiter",
+                "singing",
+                "basketball",
+                "chess"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                10,
+                15,
+                16,
+                4
+            ]
+        },
+        {
+            "student_no": 110,
+            "student_name": "tdi",
+            "score": 4.0,
+            "tags": [
+                "reading",
+                "swimming",
+                "computer",
+                "soccer"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                10,
+                9,
+                18,
+                5,
+                8
+            ]
+        },
+        {
+            "student_no": 111,
+            "student_name": "nivfjzauq",
+            "score": 4.3,
+            "tags": [
+                "guiter",
+                "computer",
+                "singing",
+                "chess"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                14,
+                15
+            ]
+        },
+        {
+            "student_no": 112,
+            "student_name": "ugxtuhlcvs",
+            "score": 3.8,
+            "tags": [
+                "basketball",
+                "dancing",
+                "singing",
+                "movie"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                19,
+                3,
+                4,
+                7,
+                10
+            ]
+        },
+        {
+            "student_no": 113,
+            "student_name": "dbhumrg",
+            "score": 1.3,
+            "tags": [
+                "dancing",
+                "singing"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                2
+            ]
+        },
+        {
+            "student_no": 114,
+            "student_name": "sjvwzx",
+            "score": 1.7,
+            "tags": [
+                "reading",
+                "basketball",
+                "guiter",
+                "movie",
+                "computer"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sun19:00-22:00",
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                11,
+                13
+            ]
+        },
+        {
+            "student_no": 115,
+            "student_name": "wqyyxcszpo",
+            "score": 0.1,
+            "tags": [
+                "reading"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                2,
+                16,
+                14
+            ]
+        },
+        {
+            "student_no": 116,
+            "student_name": "cie",
+            "score": 4.6,
+            "tags": [
+                "chess",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                7,
+                3,
+                19,
+                9
+            ]
+        },
+        {
+            "student_no": 117,
+            "student_name": "sq",
+            "score": 4.7,
+            "tags": [
+                "chess",
+                "singing",
+                "basketball",
+                "computer",
+                "guiter",
+                "movie",
+                "reading",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "sat14:00-16:00",
+                "tues8:00-11:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                5,
+                15,
+                10,
+                17,
+                2
+            ]
+        },
+        {
+            "student_no": 118,
+            "student_name": "xaunfq",
+            "score": 3.6,
+            "tags": [
+                "computer",
+                "basketball",
+                "swimming",
+                "reading",
+                "singing",
+                "guiter",
+                "soccer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat14:00-16:00",
+                "mon8:00-10:00",
+                "sun19:00-22:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                8
+            ]
+        },
+        {
+            "student_no": 119,
+            "student_name": "svhti",
+            "score": 3.3,
+            "tags": [
+                "dancing",
+                "chess",
+                "reading",
+                "swimming"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "fri14:00-15:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                18,
+                9,
+                11
+            ]
+        },
+        {
+            "student_no": 120,
+            "student_name": "opqjkztvj",
+            "score": 3.7,
+            "tags": [
+                "guiter",
+                "singing",
+                "basketball",
+                "swimming",
+                "reading",
+                "soccer",
+                "computer"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                10
+            ]
+        },
+        {
+            "student_no": 121,
+            "student_name": "wwy",
+            "score": 1.3,
+            "tags": [
+                "guiter",
+                "swimming",
+                "soccer",
+                "singing",
+                "reading"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "mon8:00-10:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                18
+            ]
+        },
+        {
+            "student_no": 122,
+            "student_name": "rtxmjvc",
+            "score": 3.4,
+            "tags": [
+                "guiter",
+                "basketball",
+                "movie",
+                "computer",
+                "reading",
+                "swimming",
+                "chess",
+                "soccer",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                19,
+                14,
+                8
+            ]
+        },
+        {
+            "student_no": 123,
+            "student_name": "yrv",
+            "score": 1.5,
+            "tags": [
+                "movie"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                7,
+                5,
+                17,
+                18,
+                14
+            ]
+        },
+        {
+            "student_no": 124,
+            "student_name": "fcbtseplkg",
+            "score": 4.1,
+            "tags": [
+                "basketball",
+                "movie",
+                "singing",
+                "soccer",
+                "reading",
+                "computer",
+                "swimming"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "thur9:00-12:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                2,
+                11,
+                6,
+                7
+            ]
+        },
+        {
+            "student_no": 125,
+            "student_name": "mryhgdmlx",
+            "score": 4.6,
+            "tags": [
+                "reading"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sat15:00-17:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                7,
+                3,
+                20,
+                16
+            ]
+        },
+        {
+            "student_no": 126,
+            "student_name": "uckbsep",
+            "score": 1.4,
+            "tags": [
+                "reading",
+                "singing"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                2,
+                1
+            ]
+        },
+        {
+            "student_no": 127,
+            "student_name": "p",
+            "score": 3.9,
+            "tags": [
+                "computer",
+                "singing",
+                "guiter",
+                "chess",
+                "reading",
+                "soccer",
+                "basketball"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                12,
+                3,
+                20
+            ]
+        },
+        {
+            "student_no": 128,
+            "student_name": "rzihmgz",
+            "score": 0.2,
+            "tags": [
+                "basketball",
+                "computer",
+                "guiter",
+                "movie",
+                "dancing",
+                "chess",
+                "swimming",
+                "reading"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "thur9:00-12:00",
+                "wed9:00-11:00",
+                "mon8:00-10:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                9,
+                20,
+                10,
+                14
+            ]
+        },
+        {
+            "student_no": 129,
+            "student_name": "zfnwywmxxg",
+            "score": 4.9,
+            "tags": [
+                "basketball",
+                "guiter",
+                "dancing",
+                "movie"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "wed9:00-11:00",
+                "sat14:00-16:00",
+                "tues8:00-11:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                11,
+                8,
+                16,
+                5,
+                3
+            ]
+        },
+        {
+            "student_no": 130,
+            "student_name": "lsyoyhgmgo",
+            "score": 4.5,
+            "tags": [
+                "computer",
+                "basketball",
+                "soccer",
+                "guiter",
+                "movie",
+                "dancing",
+                "singing",
+                "reading"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                1,
+                18
+            ]
+        },
+        {
+            "student_no": 131,
+            "student_name": "tmitnqw",
+            "score": 3.9,
+            "tags": [
+                "movie",
+                "basketball",
+                "swimming",
+                "guiter",
+                "dancing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                6,
+                7,
+                11
+            ]
+        },
+        {
+            "student_no": 132,
+            "student_name": "lrnuwkm",
+            "score": 4.0,
+            "tags": [
+                "basketball",
+                "guiter",
+                "singing",
+                "movie",
+                "dancing",
+                "soccer",
+                "chess"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "mon8:00-10:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                7
+            ]
+        },
+        {
+            "student_no": 133,
+            "student_name": "aalkics",
+            "score": 0.0,
+            "tags": [
+                "guiter",
+                "dancing",
+                "swimming",
+                "computer",
+                "soccer",
+                "basketball"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                8
+            ]
+        },
+        {
+            "student_no": 134,
+            "student_name": "d",
+            "score": 3.3,
+            "tags": [
+                "singing",
+                "guiter",
+                "chess",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                10,
+                14
+            ]
+        },
+        {
+            "student_no": 135,
+            "student_name": "xsknxteznj",
+            "score": 1.1,
+            "tags": [
+                "chess",
+                "soccer",
+                "movie",
+                "dancing",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                16,
+                8,
+                18
+            ]
+        },
+        {
+            "student_no": 136,
+            "student_name": "siigvijsu",
+            "score": 4.4,
+            "tags": [
+                "soccer",
+                "singing",
+                "basketball",
+                "movie",
+                "guiter",
+                "swimming",
+                "dancing",
+                "reading"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "fri14:00-15:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                20,
+                9,
+                2,
+                13,
+                18
+            ]
+        },
+        {
+            "student_no": 137,
+            "student_name": "putiebpb",
+            "score": 3.6,
+            "tags": [
+                "soccer",
+                "guiter",
+                "basketball",
+                "swimming",
+                "dancing",
+                "chess",
+                "reading",
+                "computer",
+                "movie",
+                "singing"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                5
+            ]
+        },
+        {
+            "student_no": 138,
+            "student_name": "ioiuozxqti",
+            "score": 3.8,
+            "tags": [
+                "reading",
+                "singing",
+                "computer",
+                "dancing",
+                "guiter",
+                "chess"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                11,
+                14,
+                13,
+                4,
+                3
+            ]
+        },
+        {
+            "student_no": 139,
+            "student_name": "spq",
+            "score": 2.2,
+            "tags": [
+                "movie",
+                "soccer",
+                "reading",
+                "swimming",
+                "singing",
+                "basketball",
+                "computer",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                19,
+                2
+            ]
+        },
+        {
+            "student_no": 140,
+            "student_name": "iuu",
+            "score": 1.2,
+            "tags": [
+                "singing",
+                "basketball",
+                "dancing",
+                "computer",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                8
+            ]
+        },
+        {
+            "student_no": 141,
+            "student_name": "dgl",
+            "score": 3.2,
+            "tags": [
+                "dancing",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                17,
+                19,
+                20
+            ]
+        },
+        {
+            "student_no": 142,
+            "student_name": "hdax",
+            "score": 2.0,
+            "tags": [
+                "singing",
+                "guiter",
+                "basketball",
+                "chess",
+                "swimming",
+                "reading"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "tues8:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                3,
+                6,
+                20
+            ]
+        },
+        {
+            "student_no": 143,
+            "student_name": "jvbvcc",
+            "score": 2.1,
+            "tags": [
+                "singing",
+                "guiter",
+                "movie",
+                "computer",
+                "chess",
+                "basketball",
+                "dancing",
+                "reading",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                13,
+                18,
+                11
+            ]
+        },
+        {
+            "student_no": 144,
+            "student_name": "m",
+            "score": 4.1,
+            "tags": [
+                "singing",
+                "dancing",
+                "reading",
+                "swimming",
+                "basketball",
+                "movie",
+                "chess",
+                "guiter",
+                "computer",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                6,
+                9,
+                1,
+                15
+            ]
+        },
+        {
+            "student_no": 145,
+            "student_name": "uskwt",
+            "score": 2.9,
+            "tags": [
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "tues8:00-11:00",
+                "sat14:00-16:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                20,
+                9,
+                6,
+                3,
+                14
+            ]
+        },
+        {
+            "student_no": 146,
+            "student_name": "ah",
+            "score": 1.5,
+            "tags": [
+                "chess",
+                "movie",
+                "swimming",
+                "dancing"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-22:00",
+                "wed9:00-11:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                7,
+                9,
+                11,
+                20
+            ]
+        },
+        {
+            "student_no": 147,
+            "student_name": "ccockv",
+            "score": 2.7,
+            "tags": [
+                "swimming",
+                "dancing",
+                "soccer",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "thur9:00-12:00",
+                "sun15:00-16:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                16,
+                14
+            ]
+        },
+        {
+            "student_no": 148,
+            "student_name": "srjgdrq",
+            "score": 4.3,
+            "tags": [
+                "basketball",
+                "dancing",
+                "soccer",
+                "reading",
+                "chess",
+                "movie",
+                "guiter",
+                "swimming",
+                "singing",
+                "computer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-21:00",
+                "sun19:00-22:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                16,
+                4
+            ]
+        },
+        {
+            "student_no": 149,
+            "student_name": "ewnvc",
+            "score": 2.4,
+            "tags": [
+                "computer",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat14:00-16:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                4
+            ]
+        },
+        {
+            "student_no": 150,
+            "student_name": "tw",
+            "score": 0.8,
+            "tags": [
+                "basketball"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                19
+            ]
+        },
+        {
+            "student_no": 151,
+            "student_name": "bnskwzeew",
+            "score": 2.4,
+            "tags": [
+                "reading",
+                "soccer",
+                "swimming",
+                "movie",
+                "singing",
+                "basketball",
+                "guiter",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                1,
+                19,
+                9,
+                20
+            ]
+        },
+        {
+            "student_no": 152,
+            "student_name": "wb",
+            "score": 0.9,
+            "tags": [
+                "computer",
+                "singing",
+                "basketball",
+                "soccer",
+                "movie",
+                "reading",
+                "dancing",
+                "chess",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                3
+            ]
+        },
+        {
+            "student_no": 153,
+            "student_name": "jtrxh",
+            "score": 1.9,
+            "tags": [
+                "swimming",
+                "chess",
+                "soccer",
+                "basketball",
+                "movie",
+                "computer",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                16,
+                9,
+                17
+            ]
+        },
+        {
+            "student_no": 154,
+            "student_name": "qubpgugwg",
+            "score": 2.2,
+            "tags": [
+                "chess",
+                "movie",
+                "guiter",
+                "basketball",
+                "reading",
+                "soccer",
+                "swimming",
+                "dancing",
+                "singing",
+                "computer"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                12,
+                9,
+                10,
+                13,
+                18
+            ]
+        },
+        {
+            "student_no": 155,
+            "student_name": "iimo",
+            "score": 4.0,
+            "tags": [
+                "guiter",
+                "chess",
+                "swimming",
+                "soccer",
+                "computer",
+                "movie",
+                "reading",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                5,
+                20,
+                2,
+                8
+            ]
+        },
+        {
+            "student_no": 156,
+            "student_name": "ebeoeqz",
+            "score": 1.6,
+            "tags": [
+                "guiter",
+                "movie",
+                "computer",
+                "chess",
+                "singing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                7,
+                4,
+                6,
+                15,
+                12
+            ]
+        },
+        {
+            "student_no": 157,
+            "student_name": "ouizveavg",
+            "score": 2.4,
+            "tags": [
+                "chess",
+                "basketball",
+                "singing",
+                "movie",
+                "computer",
+                "soccer"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                2,
+                20,
+                3
+            ]
+        },
+        {
+            "student_no": 158,
+            "student_name": "qcwv",
+            "score": 4.0,
+            "tags": [
+                "chess",
+                "computer"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "sun19:00-21:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                12
+            ]
+        },
+        {
+            "student_no": 159,
+            "student_name": "kwwmtfisg",
+            "score": 2.6,
+            "tags": [
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                14,
+                3,
+                6,
+                17,
+                8
+            ]
+        },
+        {
+            "student_no": 160,
+            "student_name": "mry",
+            "score": 0.8,
+            "tags": [
+                "movie",
+                "computer",
+                "basketball",
+                "chess",
+                "soccer",
+                "guiter",
+                "reading",
+                "swimming",
+                "dancing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "mon8:00-10:00",
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                4,
+                8,
+                17
+            ]
+        },
+        {
+            "student_no": 161,
+            "student_name": "khwudbc",
+            "score": 2.4,
+            "tags": [
+                "computer",
+                "singing",
+                "basketball",
+                "reading",
+                "guiter",
+                "soccer",
+                "chess",
+                "dancing",
+                "swimming"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun19:00-22:00",
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                9,
+                10,
+                7,
+                11,
+                1
+            ]
+        },
+        {
+            "student_no": 162,
+            "student_name": "ph",
+            "score": 0.4,
+            "tags": [
+                "swimming",
+                "soccer",
+                "reading",
+                "chess",
+                "movie",
+                "singing",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                15,
+                10
+            ]
+        },
+        {
+            "student_no": 163,
+            "student_name": "sslhl",
+            "score": 1.0,
+            "tags": [
+                "basketball",
+                "swimming",
+                "dancing",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "fri14:00-15:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                15,
+                17,
+                11
+            ]
+        },
+        {
+            "student_no": 164,
+            "student_name": "bgzv",
+            "score": 1.6,
+            "tags": [
+                "basketball",
+                "chess"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "fri14:00-15:00",
+                "mon8:00-10:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                20,
+                1,
+                16,
+                19,
+                13
+            ]
+        },
+        {
+            "student_no": 165,
+            "student_name": "axsrehn",
+            "score": 2.1,
+            "tags": [
+                "guiter",
+                "singing",
+                "reading",
+                "movie",
+                "basketball",
+                "swimming"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sun19:00-21:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                6
+            ]
+        },
+        {
+            "student_no": 166,
+            "student_name": "mmxtyvoxh",
+            "score": 4.6,
+            "tags": [
+                "swimming",
+                "computer"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sat14:00-16:00",
+                "sun19:00-22:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                2,
+                20,
+                5,
+                4
+            ]
+        },
+        {
+            "student_no": 167,
+            "student_name": "ntoamzottc",
+            "score": 0.8,
+            "tags": [
+                "movie",
+                "computer",
+                "swimming",
+                "singing",
+                "basketball",
+                "chess",
+                "dancing",
+                "reading"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "fri14:00-15:00",
+                "sun19:00-21:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                2
+            ]
+        },
+        {
+            "student_no": 168,
+            "student_name": "oyncsaet",
+            "score": 2.7,
+            "tags": [
+                "basketball",
+                "movie",
+                "singing",
+                "dancing"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun19:00-22:00",
+                "sun19:00-21:00",
+                "sat15:00-17:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                14,
+                18,
+                12,
+                17
+            ]
+        },
+        {
+            "student_no": 169,
+            "student_name": "zukjwocyhz",
+            "score": 4.1,
+            "tags": [
+                "dancing"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                20,
+                4,
+                6,
+                7
+            ]
+        },
+        {
+            "student_no": 170,
+            "student_name": "ch",
+            "score": 4.5,
+            "tags": [
+                "basketball",
+                "singing",
+                "swimming",
+                "reading",
+                "guiter",
+                "soccer",
+                "computer",
+                "movie",
+                "dancing",
+                "chess"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                11,
+                13,
+                1,
+                5,
+                16
+            ]
+        },
+        {
+            "student_no": 171,
+            "student_name": "axiom",
+            "score": 4.2,
+            "tags": [
+                "computer",
+                "basketball",
+                "guiter",
+                "reading",
+                "movie",
+                "chess",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                18,
+                7
+            ]
+        },
+        {
+            "student_no": 172,
+            "student_name": "i",
+            "score": 2.4,
+            "tags": [
+                "soccer",
+                "swimming",
+                "chess",
+                "movie",
+                "computer",
+                "dancing"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                16,
+                15,
+                3,
+                20
+            ]
+        },
+        {
+            "student_no": 173,
+            "student_name": "kwp",
+            "score": 2.4,
+            "tags": [
+                "soccer",
+                "reading",
+                "basketball",
+                "chess",
+                "dancing",
+                "computer",
+                "movie",
+                "singing"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                20
+            ]
+        },
+        {
+            "student_no": 174,
+            "student_name": "klniss",
+            "score": 2.2,
+            "tags": [
+                "reading"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "tues8:00-11:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                10,
+                6
+            ]
+        },
+        {
+            "student_no": 175,
+            "student_name": "iltkoiafme",
+            "score": 4.0,
+            "tags": [
+                "guiter",
+                "swimming",
+                "chess",
+                "dancing",
+                "reading",
+                "basketball",
+                "movie",
+                "singing",
+                "computer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00",
+                "sun19:00-22:00",
+                "fri14:00-15:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                12,
+                15
+            ]
+        },
+        {
+            "student_no": 176,
+            "student_name": "cl",
+            "score": 2.7,
+            "tags": [
+                "swimming"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sun19:00-21:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                11,
+                19,
+                4,
+                16
+            ]
+        },
+        {
+            "student_no": 177,
+            "student_name": "to",
+            "score": 2.6,
+            "tags": [
+                "singing",
+                "chess",
+                "basketball",
+                "swimming"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "fri14:00-15:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                1,
+                12
+            ]
+        },
+        {
+            "student_no": 178,
+            "student_name": "hiswka",
+            "score": 3.2,
+            "tags": [
+                "swimming",
+                "computer",
+                "basketball",
+                "singing",
+                "guiter",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "thur9:00-12:00",
+                "fri14:00-15:00"
+            ],
+            "department_will": [
+                10,
+                9,
+                19,
+                1,
+                20
+            ]
+        },
+        {
+            "student_no": 179,
+            "student_name": "twdyruum",
+            "score": 4.9,
+            "tags": [
+                "computer",
+                "swimming",
+                "basketball",
+                "dancing",
+                "singing",
+                "chess",
+                "movie",
+                "guiter",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun19:00-21:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                4,
+                2,
+                18,
+                11
+            ]
+        },
+        {
+            "student_no": 180,
+            "student_name": "uiopiwpuw",
+            "score": 2.8,
+            "tags": [
+                "basketball",
+                "chess",
+                "guiter"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                20,
+                16,
+                1
+            ]
+        },
+        {
+            "student_no": 181,
+            "student_name": "irojnol",
+            "score": 1.1,
+            "tags": [
+                "singing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sat14:00-16:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                11,
+                9,
+                2
+            ]
+        },
+        {
+            "student_no": 182,
+            "student_name": "cmzsxav",
+            "score": 3.2,
+            "tags": [
+                "dancing",
+                "basketball"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "sun15:00-16:00",
+                "thur9:00-12:00",
+                "mon8:00-10:00",
+                "sun19:00-21:00"
+            ],
+            "department_will": [
+                13
+            ]
+        },
+        {
+            "student_no": 183,
+            "student_name": "skkefu",
+            "score": 4.0,
+            "tags": [
+                "basketball",
+                "dancing"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                4
+            ]
+        },
+        {
+            "student_no": 184,
+            "student_name": "lwxqwwzd",
+            "score": 4.2,
+            "tags": [
+                "soccer"
+            ],
+            "available_schedules": [
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                17,
+                1
+            ]
+        },
+        {
+            "student_no": 185,
+            "student_name": "bh",
+            "score": 2.5,
+            "tags": [
+                "movie",
+                "singing",
+                "computer",
+                "basketball"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "sun19:00-22:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                1
+            ]
+        },
+        {
+            "student_no": 186,
+            "student_name": "ahg",
+            "score": 0.9,
+            "tags": [
+                "dancing",
+                "soccer",
+                "reading",
+                "basketball",
+                "swimming",
+                "chess",
+                "computer",
+                "singing",
+                "guiter",
+                "movie"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                9,
+                5,
+                6,
+                2,
+                14
+            ]
+        },
+        {
+            "student_no": 187,
+            "student_name": "bofuik",
+            "score": 3.4,
+            "tags": [
+                "computer",
+                "movie",
+                "singing",
+                "chess",
+                "reading"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00",
+                "thur9:00-12:00",
+                "fri14:00-15:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                5,
+                1
+            ]
+        },
+        {
+            "student_no": 188,
+            "student_name": "okquwqvw",
+            "score": 2.3,
+            "tags": [
+                "reading",
+                "movie",
+                "soccer",
+                "dancing",
+                "swimming",
+                "singing",
+                "guiter",
+                "basketball",
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "fri14:00-15:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                1,
+                8,
+                11
+            ]
+        },
+        {
+            "student_no": 189,
+            "student_name": "udblprzl",
+            "score": 0.3,
+            "tags": [
+                "computer",
+                "soccer",
+                "reading",
+                "guiter",
+                "dancing",
+                "movie",
+                "singing",
+                "swimming",
+                "chess"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                12,
+                14,
+                6,
+                2
+            ]
+        },
+        {
+            "student_no": 190,
+            "student_name": "uk",
+            "score": 3.4,
+            "tags": [
+                "basketball",
+                "singing"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                9,
+                20,
+                11,
+                18,
+                13
+            ]
+        },
+        {
+            "student_no": 191,
+            "student_name": "kldkdfrdr",
+            "score": 0.7,
+            "tags": [
+                "soccer",
+                "reading",
+                "guiter",
+                "dancing",
+                "movie",
+                "basketball",
+                "computer",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00",
+                "wed9:00-11:00",
+                "tues8:00-11:00",
+                "sun19:00-22:00",
+                "thur9:00-12:00"
+            ],
+            "department_will": [
+                16
+            ]
+        },
+        {
+            "student_no": 192,
+            "student_name": "zfa",
+            "score": 0.3,
+            "tags": [
+                "basketball",
+                "reading",
+                "swimming",
+                "chess",
+                "dancing",
+                "singing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "sun19:00-21:00",
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                19,
+                17,
+                2,
+                16
+            ]
+        },
+        {
+            "student_no": 193,
+            "student_name": "tdoxqte",
+            "score": 0.8,
+            "tags": [
+                "movie",
+                "dancing",
+                "reading",
+                "swimming",
+                "soccer",
+                "chess",
+                "basketball",
+                "computer",
+                "guiter"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00",
+                "sun15:00-16:00",
+                "sat15:00-17:00",
+                "thur9:00-12:00",
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                15,
+                8,
+                13
+            ]
+        },
+        {
+            "student_no": 194,
+            "student_name": "vvrgk",
+            "score": 4.7,
+            "tags": [
+                "chess",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sun15:00-16:00",
+                "wed9:00-11:00",
+                "sat15:00-17:00",
+                "thur9:00-12:00",
+                "tues8:00-11:00"
+            ],
+            "department_will": [
+                3,
+                10
+            ]
+        },
+        {
+            "student_no": 195,
+            "student_name": "xquezxku",
+            "score": 2.4,
+            "tags": [
+                "dancing",
+                "basketball",
+                "swimming"
+            ],
+            "available_schedules": [
+                "wed9:00-11:00"
+            ],
+            "department_will": [
+                4,
+                3
+            ]
+        },
+        {
+            "student_no": 196,
+            "student_name": "gvhtjhyezk",
+            "score": 2.1,
+            "tags": [
+                "chess",
+                "singing",
+                "soccer"
+            ],
+            "available_schedules": [
+                "sat15:00-17:00"
+            ],
+            "department_will": [
+                6,
+                20,
+                11,
+                9
+            ]
+        },
+        {
+            "student_no": 197,
+            "student_name": "ccxkwvixv",
+            "score": 0.9,
+            "tags": [
+                "singing",
+                "movie",
+                "reading",
+                "swimming",
+                "dancing",
+                "computer",
+                "soccer",
+                "basketball",
+                "guiter",
+                "chess"
+            ],
+            "available_schedules": [
+                "sat14:00-16:00",
+                "sun15:00-16:00"
+            ],
+            "department_will": [
+                14,
+                16,
+                13,
+                19,
+                6
+            ]
+        },
+        {
+            "student_no": 198,
+            "student_name": "c",
+            "score": 1.2,
+            "tags": [
+                "guiter",
+                "basketball",
+                "movie",
+                "dancing",
+                "swimming",
+                "singing"
+            ],
+            "available_schedules": [
+                "thur9:00-12:00",
+                "mon8:00-10:00"
+            ],
+            "department_will": [
+                12,
+                15,
+                4,
+                18,
+                1
+            ]
+        },
+        {
+            "student_no": 199,
+            "student_name": "izcyuceglm",
+            "score": 4.2,
+            "tags": [
+                "singing",
+                "swimming",
+                "chess"
+            ],
+            "available_schedules": [
+                "tues8:00-11:00",
+                "mon8:00-10:00",
+                "sat14:00-16:00"
+            ],
+            "department_will": [
+                5,
+                15,
+                6
+            ]
+        },
+        {
+            "student_no": 200,
+            "student_name": "lgibyzzkia",
+            "score": 1.9,
+            "tags": [
+                "dancing",
+                "soccer",
+                "guiter",
+                "singing",
+                "reading",
+                "computer",
+                "swimming",
+                "basketball",
+                "chess",
+                "movie"
+            ],
+            "available_schedules": [
+                "sun19:00-22:00"
+            ],
+            "department_will": [
+                3,
+                17
+            ]
+        }
+    ]
+}

@@ -1,0 +1,977 @@
+{
+    "matched_department": [
+        {
+            "department_no": 1,
+            "matched_stu": [
+                130,
+                144,
+                187,
+                178,
+                170
+            ]
+        },
+        {
+            "department_no": 2,
+            "matched_stu": [
+                124,
+                155,
+                4,
+                32,
+                179,
+                117,
+                71
+            ]
+        },
+        {
+            "department_no": 3,
+            "matched_stu": [
+                38,
+                129,
+                194,
+                127,
+                31,
+                43,
+                76,
+                50,
+                200
+            ]
+        },
+        {
+            "department_no": 4,
+            "matched_stu": [
+                11,
+                44,
+                3,
+                156,
+                67,
+                74
+            ]
+        },
+        {
+            "department_no": 5,
+            "matched_stu": [
+                87,
+                170,
+                74,
+                110,
+                155,
+                41,
+                199,
+                137,
+                166
+            ]
+        },
+        {
+            "department_no": 6,
+            "matched_stu": [
+                124,
+                57,
+                144,
+                8,
+                63,
+                34
+            ]
+        },
+        {
+            "department_no": 7,
+            "matched_stu": [
+                28,
+                75,
+                132,
+                112,
+                15,
+                124,
+                161,
+                103,
+                169,
+                25,
+                171,
+                125,
+                87
+            ]
+        },
+        {
+            "department_no": 8,
+            "matched_stu": [
+                11,
+                70,
+                85,
+                118,
+                129
+            ]
+        },
+        {
+            "department_no": 9,
+            "matched_stu": [
+                136,
+                154,
+                161,
+                144
+            ]
+        },
+        {
+            "department_no": 10,
+            "matched_stu": [
+                117,
+                109,
+                28,
+                112,
+                32,
+                154,
+                18,
+                41,
+                82,
+                128,
+                161,
+                194,
+                57,
+                16,
+                40
+            ]
+        },
+        {
+            "department_no": 11,
+            "matched_stu": [
+                124,
+                170,
+                179,
+                2,
+                66,
+                129,
+                188,
+                38,
+                57
+            ]
+        },
+        {
+            "department_no": 12,
+            "matched_stu": [
+                95,
+                175,
+                10,
+                63
+            ]
+        },
+        {
+            "department_no": 13,
+            "matched_stu": [
+                136,
+                11,
+                170,
+                89,
+                154,
+                87,
+                193,
+                27,
+                4,
+                143,
+                164,
+                197,
+                68
+            ]
+        },
+        {
+            "department_no": 14,
+            "matched_stu": [
+                28,
+                100,
+                45,
+                95,
+                48,
+                147,
+                82,
+                84,
+                49,
+                128,
+                10,
+                122,
+                93,
+                197,
+                138
+            ]
+        },
+        {
+            "department_no": 15,
+            "matched_stu": [
+                175,
+                109,
+                117,
+                95,
+                28,
+                43,
+                32,
+                193
+            ]
+        },
+        {
+            "department_no": 16,
+            "matched_stu": [
+                148,
+                95,
+                109,
+                170,
+                105,
+                60,
+                18
+            ]
+        },
+        {
+            "department_no": 17,
+            "matched_stu": [
+                117,
+                57,
+                83,
+                82,
+                168,
+                141,
+                160,
+                41,
+                63
+            ]
+        },
+        {
+            "department_no": 18,
+            "matched_stu": [
+                18,
+                48,
+                41
+            ]
+        },
+        {
+            "department_no": 19,
+            "matched_stu": [
+                20,
+                6,
+                122,
+                178,
+                3
+            ]
+        },
+        {
+            "department_no": 20,
+            "matched_stu": [
+                136,
+                38
+            ]
+        }
+    ],
+    "matched_student": [
+        {
+            "student_no": 2,
+            "matched_dep": [
+                11
+            ]
+        },
+        {
+            "student_no": 3,
+            "matched_dep": [
+                4,
+                19
+            ]
+        },
+        {
+            "student_no": 4,
+            "matched_dep": [
+                2,
+                13
+            ]
+        },
+        {
+            "student_no": 6,
+            "matched_dep": [
+                19
+            ]
+        },
+        {
+            "student_no": 8,
+            "matched_dep": [
+                6
+            ]
+        },
+        {
+            "student_no": 10,
+            "matched_dep": [
+                12,
+                14
+            ]
+        },
+        {
+            "student_no": 11,
+            "matched_dep": [
+                4,
+                8,
+                13
+            ]
+        },
+        {
+            "student_no": 15,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 16,
+            "matched_dep": [
+                10
+            ]
+        },
+        {
+            "student_no": 18,
+            "matched_dep": [
+                10,
+                16,
+                18
+            ]
+        },
+        {
+            "student_no": 20,
+            "matched_dep": [
+                19
+            ]
+        },
+        {
+            "student_no": 25,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 27,
+            "matched_dep": [
+                13
+            ]
+        },
+        {
+            "student_no": 28,
+            "matched_dep": [
+                7,
+                10,
+                14,
+                15
+            ]
+        },
+        {
+            "student_no": 31,
+            "matched_dep": [
+                3
+            ]
+        },
+        {
+            "student_no": 32,
+            "matched_dep": [
+                2,
+                10,
+                15
+            ]
+        },
+        {
+            "student_no": 34,
+            "matched_dep": [
+                6
+            ]
+        },
+        {
+            "student_no": 38,
+            "matched_dep": [
+                3,
+                11,
+                20
+            ]
+        },
+        {
+            "student_no": 40,
+            "matched_dep": [
+                10
+            ]
+        },
+        {
+            "student_no": 41,
+            "matched_dep": [
+                5,
+                10,
+                17,
+                18
+            ]
+        },
+        {
+            "student_no": 43,
+            "matched_dep": [
+                3,
+                15
+            ]
+        },
+        {
+            "student_no": 44,
+            "matched_dep": [
+                4
+            ]
+        },
+        {
+            "student_no": 45,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 48,
+            "matched_dep": [
+                14,
+                18
+            ]
+        },
+        {
+            "student_no": 49,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 50,
+            "matched_dep": [
+                3
+            ]
+        },
+        {
+            "student_no": 57,
+            "matched_dep": [
+                6,
+                10,
+                11,
+                17
+            ]
+        },
+        {
+            "student_no": 60,
+            "matched_dep": [
+                16
+            ]
+        },
+        {
+            "student_no": 63,
+            "matched_dep": [
+                6,
+                12,
+                17
+            ]
+        },
+        {
+            "student_no": 66,
+            "matched_dep": [
+                11
+            ]
+        },
+        {
+            "student_no": 67,
+            "matched_dep": [
+                4
+            ]
+        },
+        {
+            "student_no": 68,
+            "matched_dep": [
+                13
+            ]
+        },
+        {
+            "student_no": 70,
+            "matched_dep": [
+                8
+            ]
+        },
+        {
+            "student_no": 71,
+            "matched_dep": [
+                2
+            ]
+        },
+        {
+            "student_no": 74,
+            "matched_dep": [
+                4,
+                5
+            ]
+        },
+        {
+            "student_no": 75,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 76,
+            "matched_dep": [
+                3
+            ]
+        },
+        {
+            "student_no": 82,
+            "matched_dep": [
+                10,
+                14,
+                17
+            ]
+        },
+        {
+            "student_no": 83,
+            "matched_dep": [
+                17
+            ]
+        },
+        {
+            "student_no": 84,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 85,
+            "matched_dep": [
+                8
+            ]
+        },
+        {
+            "student_no": 87,
+            "matched_dep": [
+                5,
+                7,
+                13
+            ]
+        },
+        {
+            "student_no": 89,
+            "matched_dep": [
+                13
+            ]
+        },
+        {
+            "student_no": 93,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 95,
+            "matched_dep": [
+                12,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "student_no": 100,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 103,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 105,
+            "matched_dep": [
+                16
+            ]
+        },
+        {
+            "student_no": 109,
+            "matched_dep": [
+                10,
+                15,
+                16
+            ]
+        },
+        {
+            "student_no": 110,
+            "matched_dep": [
+                5
+            ]
+        },
+        {
+            "student_no": 112,
+            "matched_dep": [
+                7,
+                10
+            ]
+        },
+        {
+            "student_no": 117,
+            "matched_dep": [
+                2,
+                10,
+                15,
+                17
+            ]
+        },
+        {
+            "student_no": 118,
+            "matched_dep": [
+                8
+            ]
+        },
+        {
+            "student_no": 122,
+            "matched_dep": [
+                14,
+                19
+            ]
+        },
+        {
+            "student_no": 124,
+            "matched_dep": [
+                2,
+                6,
+                7,
+                11
+            ]
+        },
+        {
+            "student_no": 125,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 127,
+            "matched_dep": [
+                3
+            ]
+        },
+        {
+            "student_no": 128,
+            "matched_dep": [
+                10,
+                14
+            ]
+        },
+        {
+            "student_no": 129,
+            "matched_dep": [
+                3,
+                8,
+                11
+            ]
+        },
+        {
+            "student_no": 130,
+            "matched_dep": [
+                1
+            ]
+        },
+        {
+            "student_no": 132,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 136,
+            "matched_dep": [
+                9,
+                13,
+                20
+            ]
+        },
+        {
+            "student_no": 137,
+            "matched_dep": [
+                5
+            ]
+        },
+        {
+            "student_no": 138,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 141,
+            "matched_dep": [
+                17
+            ]
+        },
+        {
+            "student_no": 143,
+            "matched_dep": [
+                13
+            ]
+        },
+        {
+            "student_no": 144,
+            "matched_dep": [
+                1,
+                6,
+                9
+            ]
+        },
+        {
+            "student_no": 147,
+            "matched_dep": [
+                14
+            ]
+        },
+        {
+            "student_no": 148,
+            "matched_dep": [
+                16
+            ]
+        },
+        {
+            "student_no": 154,
+            "matched_dep": [
+                9,
+                10,
+                13
+            ]
+        },
+        {
+            "student_no": 155,
+            "matched_dep": [
+                2,
+                5
+            ]
+        },
+        {
+            "student_no": 156,
+            "matched_dep": [
+                4
+            ]
+        },
+        {
+            "student_no": 160,
+            "matched_dep": [
+                17
+            ]
+        },
+        {
+            "student_no": 161,
+            "matched_dep": [
+                7,
+                9,
+                10
+            ]
+        },
+        {
+            "student_no": 164,
+            "matched_dep": [
+                13
+            ]
+        },
+        {
+            "student_no": 166,
+            "matched_dep": [
+                5
+            ]
+        },
+        {
+            "student_no": 168,
+            "matched_dep": [
+                17
+            ]
+        },
+        {
+            "student_no": 169,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 170,
+            "matched_dep": [
+                1,
+                5,
+                11,
+                13,
+                16
+            ]
+        },
+        {
+            "student_no": 171,
+            "matched_dep": [
+                7
+            ]
+        },
+        {
+            "student_no": 175,
+            "matched_dep": [
+                12,
+                15
+            ]
+        },
+        {
+            "student_no": 178,
+            "matched_dep": [
+                1,
+                19
+            ]
+        },
+        {
+            "student_no": 179,
+            "matched_dep": [
+                2,
+                11
+            ]
+        },
+        {
+            "student_no": 187,
+            "matched_dep": [
+                1
+            ]
+        },
+        {
+            "student_no": 188,
+            "matched_dep": [
+                11
+            ]
+        },
+        {
+            "student_no": 193,
+            "matched_dep": [
+                13,
+                15
+            ]
+        },
+        {
+            "student_no": 194,
+            "matched_dep": [
+                3,
+                10
+            ]
+        },
+        {
+            "student_no": 197,
+            "matched_dep": [
+                13,
+                14
+            ]
+        },
+        {
+            "student_no": 199,
+            "matched_dep": [
+                5
+            ]
+        },
+        {
+            "student_no": 200,
+            "matched_dep": [
+                3
+            ]
+        }
+    ],
+    "standalone_departments": [],
+    "standalone_students": [
+        1,
+        5,
+        7,
+        9,
+        12,
+        13,
+        14,
+        17,
+        19,
+        21,
+        22,
+        23,
+        24,
+        26,
+        29,
+        30,
+        33,
+        35,
+        36,
+        37,
+        39,
+        42,
+        46,
+        47,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        58,
+        59,
+        61,
+        62,
+        64,
+        65,
+        69,
+        72,
+        73,
+        77,
+        78,
+        79,
+        80,
+        81,
+        86,
+        88,
+        90,
+        91,
+        92,
+        94,
+        96,
+        97,
+        98,
+        99,
+        101,
+        102,
+        104,
+        106,
+        107,
+        108,
+        111,
+        113,
+        114,
+        115,
+        116,
+        119,
+        120,
+        121,
+        123,
+        126,
+        131,
+        133,
+        134,
+        135,
+        139,
+        140,
+        142,
+        145,
+        146,
+        149,
+        150,
+        151,
+        152,
+        153,
+        157,
+        158,
+        159,
+        162,
+        163,
+        165,
+        167,
+        172,
+        173,
+        174,
+        176,
+        177,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        189,
+        190,
+        191,
+        192,
+        195,
+        196,
+        198
+    ]
+}
